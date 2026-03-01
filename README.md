@@ -1,4 +1,7 @@
-# 🚗 AI-Based Smart Driver Safety System using Raspberry Pi
+## 🎥 Project Demo
+
+📺 Watch the full working video here:  
+https://youtu.be/tCWYuVwcb4w?si=Ytv0KomVGu7AT5Kc# 🚗 AI-Based Smart Driver Safety System using Raspberry Pi
 
 An intelligent real-time driver monitoring and vehicle safety system using:
 - Computer Vision (Eye Drowsiness Detection)
